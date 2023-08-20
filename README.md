@@ -24,6 +24,7 @@ Hello, I'm Mark Jason Esguerra
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
   
-  ![GitHub Views](https://komarev.com/ghpvc/?username=markjasonesguerra&color=blueviolet )
+  ![GitHub Views](https://komarev.com/ghpvc/?username=markjasonesguerra&color=blueviolet)
+
 
 
