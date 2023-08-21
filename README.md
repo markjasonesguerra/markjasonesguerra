@@ -1,6 +1,6 @@
-# Mark-Jason-Esguerra
-Hello, I'm Mark Jason Esguerra, and welcome to my GitHub profile. Here, you'll find a glimpse of my coding journey, projects, and interests. Feel free to explore and connect!
+![](https://github.com/markjasonesguerra/markjasonesguerra/blob/main/profile.gif)
 
+Hello, I'm Mark Jason Esguerra, and welcome to my GitHub profile. Here, you'll find a glimpse of my coding journey, projects, and interests. Feel free to explore and connect!
 
 ## 🔧 Technologies & Tools
 
