@@ -1,11 +1,6 @@
 # Mark-Jason-Esguerra
 Hello, I'm Mark Jason Esguerra, and welcome to my GitHub profile. Here, you'll find a glimpse of my coding journey, projects, and interests. Feel free to explore and connect!
 
-
-<script async defer src="https://buttons.github.io/buttons.js"></script>
-
-<a class="github-button" href="https://github.com/markjasonesguerra" aria-label="Follow @markjasonesguerra on GitHub">Follow @markjasonesguerra</a>
-
 ## 🔧 Technologies & Tools
 
 <div id="header" align="center">
