@@ -1,5 +1,5 @@
 <div id="gif" align="center">
-  <img src="https://github.com/markjasonesguerra/markjasonesguerra/blob/main/profile.gif" width="600" height="300" />
+  <img src="https://github.com/markjasonesguerra/markjasonesguerra/blob/main/profile.gif" width="400" height="200" />
 </div>
 
 Hello, I'm Mark Jason Esguerra, and welcome to my GitHub profile. Here, you'll find a glimpse of my coding journey, projects, and interests. Feel free to explore and connect!
