@@ -1,9 +1,6 @@
-<div id="gif" align="center">
-  <img src="https://github.com/markjasonesguerra/markjasonesguerra/blob/main/mycard.gif"/>
-</div>
-
-Hello, I'm Mark Jason Esguerra, and welcome to my GitHub profile. Here, you'll find a glimpse of my coding journey, projects, and interests. Feel free to explore and connect!
-
+<div id="gif" align="center"> <img src="https://github.com/markjasonesguerra/markjasonesguerra/blob/main/mycard.gif"/> </div>
+Hello, I'm Mark Jason Esguerra! 👋
+Welcome to my GitHub profile! Here, you'll find a glimpse of my coding journey, projects, and interests. Feel free to explore and connect with me through the links below!
 ## 🔧 Technologies & Tools
 
 <div id="header" align="center">
