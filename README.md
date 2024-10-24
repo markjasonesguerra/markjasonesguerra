@@ -1,17 +1,14 @@
 <div id="gif" align="center">
-  <img src="https://github.com/markjasonesguerra/markjasonesguerra/blob/main/mycard.gif"/>
+  <img src="https://github.com/markjasonesguerra/markjasonesguerra/blob/main/mycard.gif" alt="Welcome Gif"/>
 </div>
 
-# Hello, I'm Mark Jason Esguerra! 👋
-
-Welcome to my GitHub profile! Here, you'll find a glimpse of my coding journey, projects, and interests. Feel free to explore and connect with me through the links below!
-
----
+# 🌟 Welcome to My GitHub Profile! 🌟
+Welcome! Here, you'll find a **glimpse of my coding journey**, **projects**, and **interests**. Feel free to explore and connect with me through the links below!
 
 ## 🔧 Technologies & Tools
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="200" alt="Coding Gif"/>
 </div>
 
 <div id="badges" align="center">
@@ -26,28 +23,28 @@ Welcome to my GitHub profile! Here, you'll find a glimpse of my coding journey, 
   </a>
 </div>
 
----
-
-## 🛠 Languages & Tools
-
 <div id="logos" align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40" />&nbsp;
-  <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.png" title="C++" alt="C++" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" alt="Python" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="50" height="50" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50" />&nbsp;
+  <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.png" title="C++" alt="C++" width="50" height="50" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50" />&nbsp;
 </div>
 
----
 
 ## :fire: My Stats
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=markjasonesguerra&theme=dark&background=000000" alt="GitHub Streak" />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=markjasonesguerra&theme=dark&background=000000&hide_border=true" alt="GitHub Streak" />
   </a>
-</div>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=markjasonesguerra&show_icons=true&theme=dark&hide_border=true" alt="Mark's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markjasonesguerra&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=markjasonesguerra&style=flat-square&color=blueviolet" alt="Profile Views" />
+</div><br>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=markjasonesguerra&color=blueviolet" alt="Profile Views" />
-</div>
+
+Feel free to reach out, collaborate, or just say hi! 😊 Happy coding! 💻✨
