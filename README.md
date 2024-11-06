@@ -48,3 +48,4 @@ Welcome! Here, you'll find a **glimpse of my coding journey**, **projects**, and
 
 
 Feel free to reach out, collaborate, or just say hi! 😊 Happy coding! 💻✨
+![snake gif](https://github.com/markjasonesguerra/markjasonesguerra/blob/output/github-contribution-grid-snake.gif)
