@@ -1,5 +1,6 @@
 name: Generate Snake
-
+permissions: 
+  contents: write
 # This controls when the action will run. It’s set to every 6 hours.
 on:
   schedule:
@@ -16,12 +17,11 @@ jobs:
       - uses: actions/checkout@v2
 
       # Generates the snake animation
-      - uses: Platane/snk@master
-        id: snake-gif
+      - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: markjasonesguerra
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs:
+            dist/github-snake.svg
 
       # Check the status of the build (useful for debugging)
       - run: git status
@@ -31,7 +31,7 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main # Change to 'main' if that’s your default branch
+          branch: master
           force: true
 
       # Deploy to GitHub Pages on the 'output' branch
