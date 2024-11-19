@@ -51,3 +51,4 @@ Feel free to reach out, collaborate, or just say hi! 😊 Happy coding! 💻✨
 
 ![snake gif](https://github.com/markjasonesguerra/markjasonesguerra/blob/output/github-contribution-grid-snake.svg%20dist/github-contribution-grid-snake-dark.svg)
 
+#
