@@ -35,7 +35,6 @@ Welcome! Here, you'll find a **glimpse of my coding journey**, **projects**, and
 ## :fire: My Stats
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
   </a>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=markjasonesguerra&show_icons=true&theme=dark&hide_border=true" alt="Mark's GitHub Stats" />
