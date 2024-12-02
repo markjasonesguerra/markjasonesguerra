@@ -37,7 +37,6 @@ Welcome! Here, you'll find a **glimpse of my coding journey**, **projects**, and
 <div align="center">
   </a>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=markjasonesguerra&show_icons=true&theme=dark&hide_border=true" alt="Mark's GitHub Stats" />
   <br/>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=markjasonesguerra&style=flat-square&color=blueviolet" alt="Profile Views" />
