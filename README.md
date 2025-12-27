@@ -23,14 +23,10 @@ Welcome! Here, you'll find a **glimpse of my coding journey**, **projects**, and
   </a>
 </div>
 
-<div id="logos" align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="50" height="50" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50" />&nbsp;
-  <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.png" title="C++" alt="C++" width="50" height="50" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50" />&nbsp;
+<div align="center">
+  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="150" alt="Coding Gif"/><br><br>
+
+  <img src="https://skillicons.dev/icons?i=html,css,c,cpp,python,react,js,mysql,java,figma,git,vscode&perline=7" />
 </div>
 
 
