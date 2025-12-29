@@ -24,8 +24,6 @@ Welcome! Here, you'll find a **glimpse of my coding journey**, **projects**, and
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="150" alt="Coding Gif"/><br><br>
-
   <img src="https://skillicons.dev/icons?i=html,css,c,cpp,python,react,js,mysql,java,figma,git,vscode&perline=7" />
 </div>
 
