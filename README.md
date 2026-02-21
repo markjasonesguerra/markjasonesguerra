@@ -24,7 +24,7 @@ Welcome! Here, you'll find a **glimpse of my coding journey**, **projects**, and
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,c,cpp,python,react,js,mysql,java,figma,git,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,c,cpp,python,react,js,mysql,java,figma,git,vscode,androidstudio&perline=7" />
 </div>
 
 
