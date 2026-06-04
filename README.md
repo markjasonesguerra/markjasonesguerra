@@ -31,11 +31,6 @@
 
 </div>
 
-<!-- Wave Divider -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=1" />
-
-<br/>
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" /> &nbsp;About Me
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300">
@@ -56,11 +51,6 @@ portfolio: mjesguerra.dev
 - ⚡ &nbsp;Fun fact: I love turning complex problems into elegant, simple solutions
 
 <br clear="right"/>
-
-<!-- Wave Divider -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=1" />
-
-<br/>
 
 ## 🛠️ &nbsp;Tech Stack & Tools
 
@@ -92,11 +82,6 @@ portfolio: mjesguerra.dev
 
 </div>
 
-<!-- Wave Divider -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=1" />
-
-<br/>
-
 ## 📚 &nbsp;Currently Learning
 
 <div align="center">
@@ -111,11 +96,6 @@ portfolio: mjesguerra.dev
 
 </div>
 
-<!-- Wave Divider -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=1" />
-
-<br/>
-
 ## 🏆 &nbsp;Featured Projects
 
 <div align="center">
@@ -129,11 +109,6 @@ portfolio: mjesguerra.dev
 </a>
 
 </div>
-
-<!-- Wave Divider -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=1" />
-
-<br/>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" /> &nbsp;GitHub Analytics
 
@@ -161,11 +136,21 @@ portfolio: mjesguerra.dev
   <img src="https://streak-stats.demolab.com/?user=markjasonesguerra&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=6C63FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" />
 </div>
 
-<!-- Wave Divider -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=1" />
-
 <br/>
 
+## 🌟 &nbsp;Star History
+
+<div align="center">
+  <a href="https://star-history.com/#markjasonesguerra/Thesis-LaborConnect&markjasonesguerra/MarkCart-Ecommerce&markjasonesguerra/wifi-guard&markjasonesguerra/markjasonesguerraPhotocard&Date">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=markjasonesguerra/Thesis-LaborConnect,markjasonesguerra/MarkCart-Ecommerce,markjasonesguerra/wifi-guard,markjasonesguerra/markjasonesguerraPhotocard&type=Date&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=markjasonesguerra/Thesis-LaborConnect,markjasonesguerra/MarkCart-Ecommerce,markjasonesguerra/wifi-guard,markjasonesguerra/markjasonesguerraPhotocard&type=Date" />
+      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=markjasonesguerra/Thesis-LaborConnect,markjasonesguerra/MarkCart-Ecommerce,markjasonesguerra/wifi-guard,markjasonesguerra/markjasonesguerraPhotocard&type=Date" />
+    </picture>
+  </a>
+</div>
+
+<br/>
 ## 🐍 &nbsp;Watch the Snake Eat My Contributions
 
 <div align="center">
@@ -175,11 +160,6 @@ portfolio: mjesguerra.dev
     <img alt="Snake animation" src="https://raw.githubusercontent.com/markjasonesguerra/markjasonesguerra/output/github-snake.svg" />
   </picture>
 </div>
-
-<!-- Wave Divider -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=1" />
-
-<br/>
 
 ## 🤝 &nbsp;Let's Connect!
 
