@@ -120,60 +120,13 @@ portfolio: mjesguerra.dev
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center" valign="top">
-
 <a href="https://github.com/markjasonesguerra/Thesis-LaborConnect">
-  <img src="./assets/laborconnect_logo.png" width="120" alt="LaborConnect Logo" />
+  <img src="./assets/laborconnect_logo.png" width="200" alt="LaborConnect" />
 </a>
-
-### 🔗 [Thesis - LaborConnect](https://github.com/markjasonesguerra/Thesis-LaborConnect)
-> 📱 A thesis project connecting laborers with clients — built with Python
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/github/stars/markjasonesguerra/Thesis-LaborConnect?style=flat-square&color=6C63FF" /> <img src="https://img.shields.io/github/last-commit/markjasonesguerra/Thesis-LaborConnect?style=flat-square&color=6C63FF" />
-
-</td>
-<td width="50%" align="center" valign="top">
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/markjasonesguerra/MarkCart-Ecommerce">
-  <img src="./assets/markcart_logo.png" width="120" alt="MarkCart Logo" />
+  <img src="./assets/markcart_logo.png" width="200" alt="MarkCart" />
 </a>
-
-### 🛒 [MarkCart E-commerce](https://github.com/markjasonesguerra/MarkCart-Ecommerce)
-> 🛍️ A full-stack e-commerce web application
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/github/stars/markjasonesguerra/MarkCart-Ecommerce?style=flat-square&color=6C63FF" /> <img src="https://img.shields.io/github/last-commit/markjasonesguerra/MarkCart-Ecommerce?style=flat-square&color=6C63FF" />
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
-
-<a href="https://github.com/markjasonesguerra/wifi-guard">
-  <img src="./assets/wifiguard_logo.png" width="120" alt="WiFi Guard Logo" />
-</a>
-
-### 📶 [WiFi Guard](https://github.com/markjasonesguerra/wifi-guard)
-> 📡 Android app to monitor Wi-Fi internet connection
-
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/github/stars/markjasonesguerra/wifi-guard?style=flat-square&color=6C63FF" /> <img src="https://img.shields.io/github/last-commit/markjasonesguerra/wifi-guard?style=flat-square&color=6C63FF" />
-
-</td>
-<td width="50%" align="center" valign="top">
-
-<a href="https://github.com/markjasonesguerra/markjasonesguerraPhotocard">
-  <img src="./assets/photocard_logo.png" width="120" alt="Photocard Logo" />
-</a>
-
-### 🃏 [Photocard](https://github.com/markjasonesguerra/markjasonesguerraPhotocard)
-> 🎨 A personal photocard/portfolio card design
-
-<img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/github/stars/markjasonesguerra/markjasonesguerraPhotocard?style=flat-square&color=6C63FF" /> <img src="https://img.shields.io/github/last-commit/markjasonesguerra/markjasonesguerraPhotocard?style=flat-square&color=6C63FF" />
-
-</td>
-</tr>
-</table>
 
 </div>
 
