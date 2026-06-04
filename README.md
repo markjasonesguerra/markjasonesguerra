@@ -5,7 +5,7 @@
 
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=22&duration=4000&pause=1000&color=a3cbea;8c77ed;e0728b;a3cbea&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Mark+Jason;Full+Stack+Developer;Turning+Ideas+Into+Reality;Always+Learning,+Always+Growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=4000&pause=1000&color=a3cbea;8c77ed;e0728b;a3cbea&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Mark+Jason;Full+Stack+Developer;Turning+Ideas+Into+Reality;Always+Learning,+Always+Growing" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -180,7 +180,7 @@ portfolio: mjesguerra.dev
 
 <br/><br/>
 
-### 💬 &nbsp;*"Simplicity is prerequisite for reliability."* — Edsger W. Dijkstra
+### 💬 &nbsp;_"Simplicity is prerequisite for reliability."_ — Edsger W. Dijkstra
 
 <br/>
 
