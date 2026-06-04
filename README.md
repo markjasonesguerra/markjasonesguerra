@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Cyberpunk Header -->
-<img width="100%" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/header.gif" alt="Animated Cyberpunk Header" />
+<img width="100%" src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" alt="Animated Cyberpunk Header" />
 
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -184,6 +184,6 @@ portfolio: mjesguerra.dev
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/header.gif" alt="Footer" />
+<img width="100%" src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" alt="Footer" />
 
 </div>
