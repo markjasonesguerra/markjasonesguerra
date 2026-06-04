@@ -122,7 +122,11 @@ portfolio: mjesguerra.dev
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
+
+<a href="https://github.com/markjasonesguerra/Thesis-LaborConnect">
+  <img src="./assets/laborconnect_logo.png" width="120" alt="LaborConnect Logo" />
+</a>
 
 ### 🔗 [Thesis - LaborConnect](https://github.com/markjasonesguerra/Thesis-LaborConnect)
 > 📱 A thesis project connecting laborers with clients — built with Python
@@ -130,7 +134,11 @@ portfolio: mjesguerra.dev
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/github/stars/markjasonesguerra/Thesis-LaborConnect?style=flat-square&color=6C63FF" /> <img src="https://img.shields.io/github/last-commit/markjasonesguerra/Thesis-LaborConnect?style=flat-square&color=6C63FF" />
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
+
+<a href="https://github.com/markjasonesguerra/MarkCart-Ecommerce">
+  <img src="./assets/markcart_logo.png" width="120" alt="MarkCart Logo" />
+</a>
 
 ### 🛒 [MarkCart E-commerce](https://github.com/markjasonesguerra/MarkCart-Ecommerce)
 > 🛍️ A full-stack e-commerce web application
@@ -140,7 +148,11 @@ portfolio: mjesguerra.dev
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
+
+<a href="https://github.com/markjasonesguerra/wifi-guard">
+  <img src="./assets/wifiguard_logo.png" width="120" alt="WiFi Guard Logo" />
+</a>
 
 ### 📶 [WiFi Guard](https://github.com/markjasonesguerra/wifi-guard)
 > 📡 Android app to monitor Wi-Fi internet connection
@@ -148,7 +160,11 @@ portfolio: mjesguerra.dev
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/github/stars/markjasonesguerra/wifi-guard?style=flat-square&color=6C63FF" /> <img src="https://img.shields.io/github/last-commit/markjasonesguerra/wifi-guard?style=flat-square&color=6C63FF" />
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
+
+<a href="https://github.com/markjasonesguerra/markjasonesguerraPhotocard">
+  <img src="./assets/photocard_logo.png" width="120" alt="Photocard Logo" />
+</a>
 
 ### 🃏 [Photocard](https://github.com/markjasonesguerra/markjasonesguerraPhotocard)
 > 🎨 A personal photocard/portfolio card design
