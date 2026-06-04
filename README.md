@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Slice Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6,11,20&height=180&section=header&animation=twinkling" alt="Header" />
+<!-- Animated Cyberpunk Header -->
+<img width="100%" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/header.gif" alt="Animated Cyberpunk Header" />
 
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -184,6 +184,6 @@ portfolio: mjesguerra.dev
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" alt="Footer" />
+<img width="100%" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/header.gif" alt="Footer" />
 
 </div>
