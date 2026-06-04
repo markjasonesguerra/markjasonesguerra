@@ -121,16 +121,16 @@ portfolio: mjesguerra.dev
 <div align="center">
 
 <a href="https://github.com/markjasonesguerra/MarkCart-Ecommerce">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=markjasonesguerra&repo=MarkCart-Ecommerce&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" alt="MarkCart Ecommerce" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=markjasonesguerra&repo=MarkCart-Ecommerce&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" alt="MarkCart Ecommerce" />
 </a>
 <a href="https://github.com/markjasonesguerra/Thesis-LaborConnect">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=markjasonesguerra&repo=Thesis-LaborConnect&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" alt="Thesis LaborConnect" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=markjasonesguerra&repo=Thesis-LaborConnect&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" alt="Thesis LaborConnect" />
 </a>
 <a href="https://github.com/markjasonesguerra/wifi-guard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=markjasonesguerra&repo=wifi-guard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" alt="WiFi Guard" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=markjasonesguerra&repo=wifi-guard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" alt="WiFi Guard" />
 </a>
 <a href="https://github.com/markjasonesguerra/markjasonesguerraPhotocard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=markjasonesguerra&repo=markjasonesguerraPhotocard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" alt="Photocard" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=markjasonesguerra&repo=markjasonesguerraPhotocard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" alt="Photocard" />
 </a>
 
 </div>
@@ -143,14 +143,14 @@ portfolio: mjesguerra.dev
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" /> &nbsp;GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=markjasonesguerra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markjasonesguerra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=markjasonesguerra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=markjasonesguerra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=markjasonesguerra&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=6C63FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=markjasonesguerra&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=6C63FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -174,8 +174,6 @@ portfolio: mjesguerra.dev
     <img alt="Snake animation" src="https://raw.githubusercontent.com/markjasonesguerra/markjasonesguerra/output/github-snake.svg" />
   </picture>
 </div>
-
-> ⚠️ **First time?** Push this repo, go to **Actions** tab → click **"Generate Snake Animation"** → **"Run workflow"**. The snake will appear after the workflow completes!
 
 <!-- Wave Divider -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=1" />
