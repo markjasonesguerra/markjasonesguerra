@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Particle Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mark%20Jason%20Esguerra&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Building%20Digital%20Experiences&descSize=16&descAlignY=52" alt="Header" />
+<!-- Animated Wave Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mark%20Jason%20Esguerra&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Building%20Digital%20Experiences&descSize=16&descAlignY=52" alt="Header" />
 
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -31,8 +31,6 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" /> &nbsp;About Me
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300">
@@ -53,8 +51,6 @@ portfolio: mjesguerra.dev
 - ⚡ &nbsp;Fun fact: I love turning complex problems into elegant, simple solutions
 
 <br clear="right"/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 🛠️ &nbsp;Tech Stack & Tools
 
@@ -86,8 +82,6 @@ portfolio: mjesguerra.dev
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
 ## 📚 &nbsp;Currently Learning
 
 <div align="center">
@@ -102,8 +96,6 @@ portfolio: mjesguerra.dev
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
 ## 🏆 &nbsp;Featured Projects
 
 <div align="center">
@@ -117,8 +109,6 @@ portfolio: mjesguerra.dev
 </a>
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" /> &nbsp;GitHub Analytics
 
@@ -148,8 +138,6 @@ portfolio: mjesguerra.dev
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
 ## 🌟 &nbsp;Star History
 
 <div align="center">
@@ -163,8 +151,6 @@ portfolio: mjesguerra.dev
 </div>
 
 <br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
 ## 🐍 &nbsp;Watch the Snake Eat My Contributions
 
 <div align="center">
@@ -174,8 +160,6 @@ portfolio: mjesguerra.dev
     <img alt="Snake animation" src="https://raw.githubusercontent.com/markjasonesguerra/markjasonesguerra/output/github-snake.svg" />
   </picture>
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ## 🤝 &nbsp;Let's Connect!
 
@@ -200,6 +184,6 @@ portfolio: mjesguerra.dev
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=120&section=footer&fontSize=42&fontColor=fff&animation=twinkling" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&fontSize=42&fontColor=fff&animation=twinkling" alt="Footer" />
 
 </div>
