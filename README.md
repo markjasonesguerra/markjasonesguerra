@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mark%20Jason%20Esguerra&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Building%20Digital%20Experiences&descSize=16&descAlignY=52" alt="Header" />
+<!-- Animated Slice Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6,11,20&height=180&section=header&animation=twinkling" alt="Header" />
 
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -184,6 +184,6 @@ portfolio: mjesguerra.dev
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&fontSize=42&fontColor=fff&animation=twinkling" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" alt="Footer" />
 
 </div>
