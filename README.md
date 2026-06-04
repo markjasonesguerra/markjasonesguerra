@@ -120,18 +120,44 @@ portfolio: mjesguerra.dev
 
 <div align="center">
 
-<a href="https://github.com/markjasonesguerra/MarkCart-Ecommerce">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=markjasonesguerra&repo=MarkCart-Ecommerce&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" alt="MarkCart Ecommerce" />
-</a>
-<a href="https://github.com/markjasonesguerra/Thesis-LaborConnect">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=markjasonesguerra&repo=Thesis-LaborConnect&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" alt="Thesis LaborConnect" />
-</a>
-<a href="https://github.com/markjasonesguerra/wifi-guard">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=markjasonesguerra&repo=wifi-guard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" alt="WiFi Guard" />
-</a>
-<a href="https://github.com/markjasonesguerra/markjasonesguerraPhotocard">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=markjasonesguerra&repo=markjasonesguerraPhotocard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" alt="Photocard" />
-</a>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔗 [Thesis - LaborConnect](https://github.com/markjasonesguerra/Thesis-LaborConnect)
+> 📱 A thesis project connecting laborers with clients — built with Python
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/github/stars/markjasonesguerra/Thesis-LaborConnect?style=flat-square&color=6C63FF" /> <img src="https://img.shields.io/github/last-commit/markjasonesguerra/Thesis-LaborConnect?style=flat-square&color=6C63FF" />
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 [MarkCart E-commerce](https://github.com/markjasonesguerra/MarkCart-Ecommerce)
+> 🛍️ A full-stack e-commerce web application
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/github/stars/markjasonesguerra/MarkCart-Ecommerce?style=flat-square&color=6C63FF" /> <img src="https://img.shields.io/github/last-commit/markjasonesguerra/MarkCart-Ecommerce?style=flat-square&color=6C63FF" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📶 [WiFi Guard](https://github.com/markjasonesguerra/wifi-guard)
+> 📡 Android app to monitor Wi-Fi internet connection
+
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/github/stars/markjasonesguerra/wifi-guard?style=flat-square&color=6C63FF" /> <img src="https://img.shields.io/github/last-commit/markjasonesguerra/wifi-guard?style=flat-square&color=6C63FF" />
+
+</td>
+<td width="50%" valign="top">
+
+### 🃏 [Photocard](https://github.com/markjasonesguerra/markjasonesguerraPhotocard)
+> 🎨 A personal photocard/portfolio card design
+
+<img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/github/stars/markjasonesguerra/markjasonesguerraPhotocard?style=flat-square&color=6C63FF" /> <img src="https://img.shields.io/github/last-commit/markjasonesguerra/markjasonesguerraPhotocard?style=flat-square&color=6C63FF" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -143,21 +169,27 @@ portfolio: mjesguerra.dev
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" /> &nbsp;GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=markjasonesguerra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=markjasonesguerra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=markjasonesguerra&theme=tokyonight" alt="GitHub Stats" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=markjasonesguerra&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=markjasonesguerra&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=6C63FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=markjasonesguerra&theme=tokyonight" alt="Most Commit Language" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=markjasonesguerra&theme=tokyonight&utcOffset=8" alt="Productive Time" />
 </div>
 
 <br/>
 
-<!-- GitHub Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=markjasonesguerra&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B&area=true&area_color=6C63FF&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markjasonesguerra&theme=tokyonight" alt="Profile Details" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=markjasonesguerra&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=6C63FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" />
 </div>
 
 <!-- Wave Divider -->
