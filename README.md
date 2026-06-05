@@ -113,27 +113,27 @@ portfolio: mjesguerra.dev
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" /> &nbsp;GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=markjasonesguerra&theme=tokyonight" alt="GitHub Stats" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=markjasonesguerra&theme=tokyonight" alt="Top Languages" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=markjasonesguerra&theme=dracula" alt="GitHub Stats" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=markjasonesguerra&theme=dracula" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=markjasonesguerra&theme=tokyonight" alt="Most Commit Language" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=markjasonesguerra&theme=tokyonight&utcOffset=8" alt="Productive Time" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=markjasonesguerra&theme=dracula" alt="Most Commit Language" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=markjasonesguerra&theme=dracula&utcOffset=8" alt="Productive Time" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markjasonesguerra&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markjasonesguerra&theme=dracula" alt="Profile Details" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=markjasonesguerra&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=6C63FF&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=markjasonesguerra&theme=dracula&hide_border=true&background=282A36&stroke=44475A&ring=BD93F9&fire=FF79C6&currStreakLabel=8BE9FD&sideLabels=F8F8F2&currStreakNum=F8F8F2&sideNums=F8F8F2&dates=6272A4" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -151,7 +151,8 @@ portfolio: mjesguerra.dev
 </div>
 
 <br/>
-## 🐍 &nbsp;Watch the Snake Eat My Contributions
+
+🐍 &nbsp;Watch the Snake Eat My Contributions
 
 <div align="center">
   <picture>
