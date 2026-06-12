@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=a3cbea,8c77ed,e0728b&height=180&section=header&animation=twinkling" alt="Header" />
+<!-- Mario Header -->
+<img width="100%" src="./assets/pixel-jeff-mario.gif" alt="Mario Header" />
 
 <!-- Animated Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -81,62 +81,6 @@ portfolio: mjesguerra.dev
 </p>
 
 </div>
-
-## 📚 &nbsp;Currently Learning
-
-<div align="center">
-
-|    Technology     |                                           Progress                                           |       Status       |
-| :---------------: | :------------------------------------------------------------------------------------------: | :----------------: |
-|    TypeScript     | ![](https://geps.dev/progress/70?dangerColor=6C63FF&warningColor=6C63FF&successColor=6C63FF) |   🔥 In Progress   |
-| Node.js / Express | ![](https://geps.dev/progress/65?dangerColor=6C63FF&warningColor=6C63FF&successColor=6C63FF) |   🔥 In Progress   |
-|    PostgreSQL     | ![](https://geps.dev/progress/55?dangerColor=6C63FF&warningColor=6C63FF&successColor=6C63FF) |    📖 Learning     |
-|      Next.js      | ![](https://geps.dev/progress/45?dangerColor=6C63FF&warningColor=6C63FF&successColor=6C63FF) |    📖 Learning     |
-|      Docker       | ![](https://geps.dev/progress/30?dangerColor=6C63FF&warningColor=6C63FF&successColor=6C63FF) | 🌱 Getting Started |
-
-</div>
-
-## 🏆 &nbsp;Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/markjasonesguerra/Thesis-LaborConnect">
-  <img src="./assets/laborconnect_logo.png" width="200" alt="LaborConnect" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/markjasonesguerra/MarkCart-Ecommerce">
-  <img src="./assets/markcart_logo.png" width="200" alt="MarkCart" />
-</a>
-
-</div>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" /> &nbsp;GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=markjasonesguerra&theme=dracula" alt="GitHub Stats" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=markjasonesguerra&theme=dracula" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=markjasonesguerra&theme=dracula" alt="Most Commit Language" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=markjasonesguerra&theme=dracula&utcOffset=8" alt="Productive Time" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markjasonesguerra&theme=dracula" alt="Profile Details" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=markjasonesguerra&theme=dracula&hide_border=true&background=282A36&stroke=44475A&ring=BD93F9&fire=FF79C6&currStreakLabel=8BE9FD&sideLabels=F8F8F2&currStreakNum=F8F8F2&sideNums=F8F8F2&dates=6272A4" alt="GitHub Streak" />
-</div>
-
-<br/>
 
 ## 🌟 &nbsp;Star History
 
