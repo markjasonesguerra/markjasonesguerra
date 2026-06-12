@@ -25,9 +25,6 @@
 <a href="mailto:markjasonesguerra@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-<a href="https://github.com/markjasonesguerra" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
 
 </div>
 
@@ -71,13 +68,24 @@ portfolio: mjesguerra.dev
 ### 🗄️ Databases & Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,mongodb&theme=dark" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,supabase&theme=dark" alt="Databases" />
 </p>
 
 ### 🧰 Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,androidstudio,postman&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,figma,androidstudio,postman&theme=dark" alt="Tools" />
+</p>
+
+### 🤖 AI Tools & Assistants
+
+<p>
+  <img src="https://img.shields.io/badge/Claude-8A2BE2?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/GPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="GPT" />
+  <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot" />
+  <img src="https://img.shields.io/badge/Antigravity-FF69B4?style=for-the-badge&logo=rocket&logoColor=white" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/Gemini%20CLI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini CLI" />
 </p>
 
 </div>
