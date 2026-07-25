@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Mario Header -->
+<!-- Mario Header   -->
 <img width="100%" src="./assets/pixel-jeff-mario.gif" alt="Mario Header" />
 
 <!-- Animated Typing SVG -->
